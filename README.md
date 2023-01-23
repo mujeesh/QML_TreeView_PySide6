@@ -11,7 +11,8 @@ Required -
 
 
 Python 3.10,
-PySide6 
+pip install PySide6==6.4.2
+ 
 
 ################
 
