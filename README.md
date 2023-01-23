@@ -1,5 +1,6 @@
 # QML_TreeView_PySide6
-QML TreeView example using PySide6
+QML TreeView example using PySide6==6.4.2
+ 
 
 
 ########################################
