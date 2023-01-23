@@ -9,7 +9,7 @@ QML Tree View Example
 Required -
 
 
-Python 3.10,\n
+Python 3.10,
 PySide6 
 
 ################
